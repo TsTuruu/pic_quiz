@@ -2,19 +2,19 @@
   {
     "question": "Ямар улсын далбаа вэ?",
     "img": "https://raw.githubusercontent.com/TsTuruu/pic_quiz/refs/heads/main/flag_1.png",
-    "options": ["Монгол", "АНУ", "БНАМУ", "ЗХУ"],
+    "options": ["Монгол", "АНУ", "БНМАУ", "ЗХУ"],
     "answer": "Монгол"
   },
   {
     "question": "Ямар улсын далбаа вэ?",    
     "img": "https://raw.githubusercontent.com/TsTuruu/pic_quiz/refs/heads/main/flag_2.png",
-    "options": ["Монгол", "АНУ", "БНАМУ", "ЗХУ"],
-    "answer": "Монгол"
+    "options": ["Монгол", "АНУ", "БНМАУ", "ЗХУ"],
+    "answer": "БНМАУ"
   },
   {
     "question": "Ямар улсын далбаа вэ?",
     "img": "https://raw.githubusercontent.com/TsTuruu/pic_quiz/refs/heads/main/Flag_of_the_United_States.svg.png",
-    "options": ["Монгол", "АНУ", "БНАМУ", "ЗХУ"],
-    "answer": "Монгол"
+    "options": ["Монгол", "АНУ", "БНМАУ", "ЗХУ"],
+    "answer": "АНУ"
   }
 ]
